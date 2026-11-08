@@ -1,0 +1,9 @@
+{
+  "title": "Hindi documentation has broken setup steps",
+  "body": "The README says to run `python app.py`, but the file is now in src/app.py. New contributors are getting stuck. Could someone update the setup guide?",
+  "labels": [],
+  "comments": [
+    "I can reproduce this on Ubuntu 24.04.",
+    "The English docs are also missing the virtual environment step."
+  ]
+}
