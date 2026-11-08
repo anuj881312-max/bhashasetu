@@ -18,6 +18,6 @@ Unacceptable behavior includes harassment, public or private intimidation, discr
 
 ## Enforcement
 
-Project maintainers are responsible for clarifying and enforcing this code. Report unacceptable behavior to **[maintainer contact]**. All reports will be reviewed and investigated fairly and confidentially.
+Project maintainers are responsible for clarifying and enforcing this code. Report unacceptable behavior to **[anujrawat881213@gmail.com]**. All reports will be reviewed and investigated fairly and confidentially.
 
 This document is adapted from the Contributor Covenant, version 2.1.
