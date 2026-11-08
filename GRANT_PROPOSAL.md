@@ -8,10 +8,10 @@ BhashaSetu is a privacy-first, Hindi-first maintainer assistant that uses OpenAI
 
 ## Applicant
 
-- Maintainer: **[your name]**
-- Public repository: **[GitHub URL]**
-- Contact: **[email or public discussion link]**
-- Relevant experience: **[links to prior open-source work]**
+- Maintainer: **[anuj kumar rawat ]**
+- Public repository: **[https://github.com/anuj881312-max/bhashasetu]**
+- Contact: **[anujrawat881213@gmail.com]**
+- Relevant experience: **[This is my first public open-source project. I am building BhashaSetu to help open-source maintainers and Indian-language contributors.]**
 
 ## Problem
 
