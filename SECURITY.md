@@ -16,4 +16,4 @@ Redaction is defense in depth. It does not prove that arbitrary secrets or perso
 
 ## Reporting a vulnerability
 
-Please do not open a public issue for an undisclosed vulnerability. Contact **[maintainer security contact]** with a clear description, reproduction steps, impact, and a safe contact method. We aim to acknowledge reports within seven days.
+Please do not open a public issue for an undisclosed vulnerability. Contact **[anujrawat881213@gmail.com]** with a clear description, reproduction steps, impact, and a safe contact method. We aim to acknowledge reports within seven days.
